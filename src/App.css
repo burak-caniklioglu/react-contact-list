@@ -1,0 +1,15 @@
+
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background: rgb(161,137,104);
+background: linear-gradient(90deg, rgba(161,137,104,1) 30%, rgba(185,105,183,1) 100%, rgba(2,0,36,1) 100%);
+}
+
+h1{
+  padding-top: 4rem;
+}
+#container{
+  padding-top: 10rem;
+  color: rgb(54, 37, 37);
+}
